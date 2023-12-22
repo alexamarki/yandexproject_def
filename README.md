@@ -1,1 +1,1 @@
-# yandexproject_def
+# presentation + code coming *soon*
